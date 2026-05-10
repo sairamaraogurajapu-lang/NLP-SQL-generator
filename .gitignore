@@ -1,0 +1,5 @@
+Backend/.env
+Backend/__pycache__/
+*.pyc
+node_modules/
+Frontend/my-app/node_modules/
